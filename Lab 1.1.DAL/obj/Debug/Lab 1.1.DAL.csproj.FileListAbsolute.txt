@@ -1,0 +1,12 @@
+D:\C#\Tuan 6\Lab 1.1.DAL\bin\Debug\Lab 1.1.DAL.dll.config
+D:\C#\Tuan 6\Lab 1.1.DAL\bin\Debug\Lab 1.1.DAL.dll
+D:\C#\Tuan 6\Lab 1.1.DAL\bin\Debug\Lab 1.1.DAL.pdb
+D:\C#\Tuan 6\Lab 1.1.DAL\bin\Debug\EntityFramework.dll
+D:\C#\Tuan 6\Lab 1.1.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Tuan 6\Lab 1.1.DAL\bin\Debug\EntityFramework.xml
+D:\C#\Tuan 6\Lab 1.1.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Tuan 6\Lab 1.1.DAL\obj\Debug\Lab 1.1.DAL.csproj.AssemblyReference.cache
+D:\C#\Tuan 6\Lab 1.1.DAL\obj\Debug\Lab 1.1.DAL.csproj.CoreCompileInputs.cache
+D:\C#\Tuan 6\Lab 1.1.DAL\obj\Debug\Lab 1.1..700AF21F.Up2Date
+D:\C#\Tuan 6\Lab 1.1.DAL\obj\Debug\Lab 1.1.DAL.dll
+D:\C#\Tuan 6\Lab 1.1.DAL\obj\Debug\Lab 1.1.DAL.pdb

@@ -1,0 +1,21 @@
+D:\C#\Tuan 6\Lab 1.1.GUI\bin\Debug\Lab 1.1.GUI.exe.config
+D:\C#\Tuan 6\Lab 1.1.GUI\bin\Debug\Lab 1.1.GUI.exe
+D:\C#\Tuan 6\Lab 1.1.GUI\bin\Debug\Lab 1.1.GUI.pdb
+D:\C#\Tuan 6\Lab 1.1.GUI\bin\Debug\Lab 1.1.BUS.dll
+D:\C#\Tuan 6\Lab 1.1.GUI\bin\Debug\Lab 1.1.DAL.dll
+D:\C#\Tuan 6\Lab 1.1.GUI\bin\Debug\EntityFramework.dll
+D:\C#\Tuan 6\Lab 1.1.GUI\bin\Debug\Lab 1.1.BUS.pdb
+D:\C#\Tuan 6\Lab 1.1.GUI\bin\Debug\Lab 1.1.BUS.dll.config
+D:\C#\Tuan 6\Lab 1.1.GUI\bin\Debug\Lab 1.1.DAL.pdb
+D:\C#\Tuan 6\Lab 1.1.GUI\bin\Debug\Lab 1.1.DAL.dll.config
+D:\C#\Tuan 6\Lab 1.1.GUI\bin\Debug\EntityFramework.xml
+D:\C#\Tuan 6\Lab 1.1.GUI\obj\Debug\Lab 1.1.GUI.csproj.AssemblyReference.cache
+D:\C#\Tuan 6\Lab 1.1.GUI\obj\Debug\Lab_1._1.GUI.Properties.Resources.resources
+D:\C#\Tuan 6\Lab 1.1.GUI\obj\Debug\Lab 1.1.GUI.csproj.GenerateResource.cache
+D:\C#\Tuan 6\Lab 1.1.GUI\obj\Debug\Lab 1.1.GUI.csproj.CoreCompileInputs.cache
+D:\C#\Tuan 6\Lab 1.1.GUI\obj\Debug\Lab 1.1..B21E0D59.Up2Date
+D:\C#\Tuan 6\Lab 1.1.GUI\obj\Debug\Lab 1.1.GUI.exe
+D:\C#\Tuan 6\Lab 1.1.GUI\obj\Debug\Lab 1.1.GUI.pdb
+D:\C#\Tuan 6\Lab 1.1.GUI\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Tuan 6\Lab 1.1.GUI\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Tuan 6\Lab 1.1.GUI\obj\Debug\Lab_1._1.GUI.Form1.resources
